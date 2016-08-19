@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Temp Converter</string>
+    <string name="celsius">0</string>
+</resources>
